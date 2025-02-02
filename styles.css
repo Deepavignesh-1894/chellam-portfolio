@@ -92,6 +92,11 @@ h2 {
     color: #333;
 }
 
+html {
+    scroll-behavior: smooth;
+}
+
+
 /* Skills Section */
 #skills {
     padding: 40px 0;
@@ -289,9 +294,5 @@ footer {
     .achievement-item p {
         font-size: 0.9rem;
     }
-}
-
-html{
-    scroll-behaviour: smooth;
 }
 
